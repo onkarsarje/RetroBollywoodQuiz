@@ -1,4 +1,5 @@
 # RetroBollywoodQuiz
 A CLI Application using Repl.it
 
-https://replit.com/@onkarsarje/RetroBollywoodQuiz?embed=1&output=1#index.js
+This is a fun app to check your knowledge on general old bollywood movies and songs.🎭 There are ten multiple choice questions along with four options the player has to enter the option he/she thinks is right, and they will get a score at the end of the quiz. Enjoy...📽
+
